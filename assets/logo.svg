@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Y-Takip">
+  <defs>
+    <linearGradient id="yg" x1="10" y1="8" x2="52" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFA51F"/>
+      <stop offset="0.55" stop-color="#EA5B0C"/>
+      <stop offset="1" stop-color="#C2410C"/>
+    </linearGradient>
+  </defs>
+  <path d="M13 11 L32 34" fill="none" stroke="url(#yg)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M51 11 L32 34" fill="none" stroke="#FFA51F" stroke-width="10" stroke-linecap="round"/>
+  <path d="M32 34 L32 53" fill="none" stroke="#EA5B0C" stroke-width="10" stroke-linecap="round"/>
+</svg>
